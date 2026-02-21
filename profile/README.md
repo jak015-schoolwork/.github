@@ -1,8 +1,8 @@
-##📚 jak015-school-work
+## 📚 jak015-school-work
 
 🔒 Private archive of my school assignments and practice projects.
 
-###🎯 Purpose
+### 🎯 Purpose
 
 This organization exists to:
 
